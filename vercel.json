@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/", "destination": "/CuentasHogar.html", "permanent": true }
+  ]
+}
